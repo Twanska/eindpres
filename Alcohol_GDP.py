@@ -10,7 +10,7 @@ import pandas as pd
 import plotly.express as px
 import statsmodels
 import json
-import streamlit
+import streamlit as st
 #import session_info
 
 
