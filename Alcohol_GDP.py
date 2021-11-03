@@ -11,13 +11,13 @@ import plotly.express as px
 import statsmodels
 import json
 import streamlit
-import session_info
+#import session_info
 
 
 # In[15]:
 
 
-session_info.show()
+#session_info.show()
 
 
 # ### Bronnen
