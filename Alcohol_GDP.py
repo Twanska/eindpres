@@ -16,7 +16,7 @@ import streamlit as st
 
 # In[15]:
 
-
+streamlit run Alcohol_GDP.py --server.maxUploadSize=1028
 #session_info.show()
 
 
